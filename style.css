@@ -1,27 +1,37 @@
-                                                                                                                                                                                                                                                                                        
-                                                                                                                                                                                                                                                                                        .container{
-                                                                                                                                                                                                                                                                                            padding-bottom: 100px;
+.e-bg{
+    width: 200px;
+    padding: 10px 10px 10px 10px;
+}
+.fast{
+    background-color: #F0FFF0;
+}
+.container{
+    
+    padding-bottom: 100px;
+    
+}
+.text-bg{
+    padding-right: 100px;
+}
+.books{
+    width: 66px;
+   margin: auto;
+   margin-bottom: 40px;
+   margin-top: 40px;
+    
 
-                                                                                                                                                                                                                                                                                        }
-                                                                                                                                                                                                                                                                                    
-                                                                                                                                                                                                                                                                                        
-                                                                                                                                                                                                                                                                        
-                                                                                                                                                                                                                                                                                        .e-bg{
-                                                                                                                                                                                                                                                                                            background-color: red
-                                                                                                                                                                                                                                                                                            border: none;
-                                                                                                                                                                                                                                                                                            
-                                                                                                                                                                                                                                                                                             
-                                                                                                                                                                                                                                                                                            
+}
+.second{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+}
+.box{
+    
+}
 
-                                                                                                                                                                                                                                                                                        }
-                                                                                                                                                                                                                                                                                        .navbar-brand img{
-                                                                                                                                                                                                                                                                                            width: 200px;
-                                                                                                                                                                                                                                                                                            
-                                                                                                                                                                                                                                                                                        }
-                                                                                                                                                                                                                                                                                        .navbar-brand{
-                                                                                                                                                                                                                                                                                            background-color:
-                                                                                                                                                                                                                                                                                        }        
-                                                                                                                                                                                                                                                                                        .button{
-                                                                                                                                                                                                                                                                                            border-radius: 15px 25px;
-                                                                                                                                                                                                                                                                                            padding: px 20px;
-                                                                                                                                                                                                                                                                                        }                                                                                                                                        
+.card-footer{
+    background-color: white;
+    border-top: none;
+    border-radius: 10px;
+}
