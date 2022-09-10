@@ -26,12 +26,13 @@
     padding-bottom: 50px;
     
 }
-.box{
-    
-}
-
 .card-footer{
     background-color: white;
     border-top: none;
     border-radius: 10px;
+
+}
+.Testimonial{
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
